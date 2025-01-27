@@ -1,0 +1,5 @@
+copyright: ©{{ "now" | date('%Y') }} {{ site_metadata.title }}. All Rights Reserved.
+address: your address
+disclaimer: Any notices you might want your visitors to consider.
+warning: If visitors start showing up with misaligned expectations/impressions, you could clarify here
+terms_url: "/terms-and-policies"
